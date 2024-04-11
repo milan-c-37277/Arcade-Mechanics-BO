@@ -5186,6 +5186,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isActiveWeapon: 0
+  weaponDamage: 15
   playerCamera: {fileID: 0}
   isShooting: 0
   readyToShoot: 0
